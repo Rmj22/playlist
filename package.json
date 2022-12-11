@@ -4,7 +4,7 @@
   "description": "* Create a database called `playlist_db`, then create a table inside of this database called `songs`. The songs table should have four columns:",
   "main": "connection.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.17.1"
   },
   "devDependencies": {},
